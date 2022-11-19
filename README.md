@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/l4lRdl315eruX7S6Y" width="480" height="480" />
+![Uploading polygonChange.gif…]()
 
 ---
 
