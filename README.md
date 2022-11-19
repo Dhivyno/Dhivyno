@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ### Find Me :
 
 <p align="left">
-<a href="[https://twitter.com/danielhendricks/](https://www.instagram.com/dhivyno/)">
+<a href="https://www.instagram.com/dhivyno/">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Instagram" title="Instagram" width="60" height="60" />
 </a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
