@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! Nice to see you here, I'm Dhivyesh👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=F70000&center=false&vCenter=false&width=435&lines=I'm+Dhivyesh)](https://git.io/typing-svg)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
