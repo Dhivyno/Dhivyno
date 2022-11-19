@@ -1,6 +1,6 @@
 <p align="center">
-  ![polygonChange](https://user-images.githubusercontent.com/63943490/202844469-9237d466-87aa-4106-a55c-01914f28a49b.gif)
- </p>
+<img src="https://user-images.githubusercontent.com/63943490/202844469-9237d466-87aa-4106-a55c-01914f28a49b.gif"/>
+</p>
 
 ---
 
