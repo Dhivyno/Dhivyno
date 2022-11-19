@@ -55,10 +55,9 @@ Here are some ideas to get you started:
 
 ### Find Me :
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/danielhendricks/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
+<a href="[https://twitter.com/danielhendricks/](https://www.instagram.com/dhivyno/)">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Instagram" title="Instagram" width="60" height="60" />
 </a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
