@@ -45,3 +45,5 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Dhivyno&color=blue&type=horizontal)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhivyno&show_icons=true&theme=transparent)
