@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ---
 
-### ✨ My Stats: 
+### ✨   My Stats : 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
 
