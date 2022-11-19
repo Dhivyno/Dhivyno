@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Find Me :
+### Find me on :
 
 <p align="left">
 
