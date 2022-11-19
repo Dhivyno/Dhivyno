@@ -1,6 +1,8 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 ### Hi! Nice to see you here, I'm Dhivyesh👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=A+Student;A+Programmer;A+Volunteer)](https://git.io/typing-svg)
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 
 <!--
 **Dhivyno/Dhivyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <i class="devicon-devicon-plain"></i>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
