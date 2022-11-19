@@ -3,7 +3,7 @@
 <!--
 **Dhivyno/Dhivyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dhivyno)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dhivyno&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
