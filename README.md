@@ -64,11 +64,13 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Instagram" title="Instagram" width="60" height="60" />
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Blender" alt="Blender" width="50" height="50"/>
 </a>
+</p>
   
-  
+<p>
 <a href="https://www.linkedin.com/in/dhivyesh-k-b46a68202/">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="LinkedIn" title="LinkedIn" width="60" height="60" />
 </a>
 </p>
+
 
 ![](https://komarev.com/ghpvc/?username=Dhivyno&color=blue&type=horizontal)
