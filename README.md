@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/26DoiqmYcxgFICb3G" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-loop-trippy-26DoiqmYcxgFICb3G">via GIPHY</a></p>
+<img src="https://giphy.com/embed/l4lRdl315eruX7S6Y" width="480" height="480" />
 
 ---
 
