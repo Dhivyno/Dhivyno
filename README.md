@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=A+Student+👨‍🎓;A+Programmer+👨‍💻;A+Volunteer+🧎‍♂️)](https://git.io/typing-svg)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dhivyno&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Dhivyno/Dhivyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
