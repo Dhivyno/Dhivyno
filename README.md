@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ---
 
-###  My Stats: 
+### ✨ My Stats: 
 
 ![](https://komarev.com/ghpvc/?username=Dhivyno&color=blue&type=horizontal)
 
