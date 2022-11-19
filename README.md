@@ -60,15 +60,15 @@ Here are some ideas to get you started:
 ### Find me on :
 
 <p align="left">
-
-     
+<a href-"https://www.instagram.com/dhivyno/">
   <img href = "https://www.instagram.com/dhivyno/" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" img align="center"/>
-
+</a>
 </p>
   
 <p>
 <a href="https://www.linkedin.com/in/dhivyesh-k-b46a68202/">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="LinkedIn" title="LinkedIn" width="60" height="60" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" width="60" height="60" />
 </a>
 </p>
 
