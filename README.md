@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 
 ### ✨ My Stats: 
 
-![](https://komarev.com/ghpvc/?username=Dhivyno&color=blue&type=horizontal)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhivyno&custom_title=My+GitHub+Stats&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivyno&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Dhivyno&color=blue&type=horizontal)
