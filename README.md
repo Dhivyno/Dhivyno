@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ![](https://komarev.com/ghpvc/?username=Dhivyno&color=blue)
-<i class="devicon-devicon-plain"></i>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
