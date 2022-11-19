@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.instagram.com/dhivyno/">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Instagram" title="Instagram" width="60" height="60" />
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img href = "https://www.instagram.com/dhivyno/" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
   
