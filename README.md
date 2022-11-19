@@ -1,6 +1,8 @@
 ### Hi! Nice to see you here, I'm Dhivyesh👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=A+Student+👨‍🎓;A+Programmer+👨‍💻;A+Volunteer+🧎‍♂️)](https://git.io/typing-svg)
 
+<img src="https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+
 
 <!--
 **Dhivyno/Dhivyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
