@@ -1,8 +1,6 @@
 ### Hi! Nice to see you here, I'm Dhivyesh👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=A+Student+👨‍🎓;A+Programmer+👨‍💻;A+Volunteer+🧎‍♂️)](https://git.io/typing-svg)
 
-<img src="https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dhivyno&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
@@ -62,14 +60,14 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href-"https://www.instagram.com/dhivyno/">
-  <img href = "https://www.instagram.com/dhivyno/" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" img align="center"/>
-</a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" img align="center"/>
+  </a>
 </p>
   
 <p>
 <a href="https://www.linkedin.com/in/dhivyesh-k-b46a68202/">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="LinkedIn" title="LinkedIn" width="60" height="60" />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" width="60" height="60" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
 </a>
 </p>
 
