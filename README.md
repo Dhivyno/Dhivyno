@@ -4,6 +4,7 @@
 <img src="https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80" title="Python" alt="Python" width="50" height="50"/>&nbsp;
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dhivyno&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Dhivyno/Dhivyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
