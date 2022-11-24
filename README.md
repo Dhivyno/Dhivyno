@@ -73,10 +73,13 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/dhivyesh-k-b46a68202/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" img align="center" alt="LinkedIn" title="LinkedIn" />
 </a>
+</p>
+<p>
 <a href="https://www.youtube.com/channel/UCOKgIzmiN3huHSXfZWQyuMw">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" img align="center" title="Youtube" alt="Youtube"/>
 </a>
 </p>
+
 
 
 ![](https://komarev.com/ghpvc/?username=Dhivyno&color=blue&type=horizontal)
