@@ -8,12 +8,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=A+Student+👨‍🎓;A+Programmer+👨‍💻;A+Volunteer+🌿;A+Leader+🏆;An+Educator+👨‍🏫;A+STEM+fanboy+👨‍🔬;A+Manager+👨‍💼;A+Badminton+Lover+🏸;And+More!+✨)](https://git.io/typing-svg)
 
 
-<!--
-**Dhivyno/Dhivyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### About me :
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -23,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
@@ -83,3 +80,4 @@ Here are some ideas to get you started:
 
 
 ![](https://komarev.com/ghpvc/?username=Dhivyno&color=blue&type=horizontal)
+![](https://komarev.com/ghpvc/?username=shriya77&color=blue&type=horizontal)
