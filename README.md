@@ -80,4 +80,3 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Dhivyno&color=blue&type=horizontal)
-![](https://komarev.com/ghpvc/?username=shriya77&color=blue&type=horizontal)
