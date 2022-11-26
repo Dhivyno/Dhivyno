@@ -11,13 +11,18 @@
 
 ###   🕵️‍♂️ About me :
 
+
 - 👨‍💼 Working as a Fundraising Manager at <a href="https://www.seedmalawi.com/">SEED Malawi</a>
+
 
 - 🔭 Working on a Face Detection framework
 
+
 - 🌱 Learning Jupyter Notebook and Jupyter Lab
 
+
 - 🤔 Exploring computer ethics and teaching young innovators in computer science
+
 
 - 📫 You can reach me on my <a href="https://mail.google.com/mail/u/1/?fs=1&to=dhivyno@gmail.com&tf=cm">email</a> (dhivyno@gmail.com)
 
