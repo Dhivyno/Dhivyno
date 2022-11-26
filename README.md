@@ -21,8 +21,7 @@
 
 - 📫 You can reach me on my <a href="https://mail.google.com/mail/u/1/?fs=1&to=dhivyno@gmail.com&tf=cm">email</a> (dhivyno@gmail.com)
 
-<p>  
-</p>
+<br>
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
