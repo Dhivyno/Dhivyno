@@ -5,13 +5,11 @@
 ---
 
 ### 👋 Hi! Nice to see you here, I'm Dhivyesh
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=A+Student+📚;A+Programmer+👨‍💻;A+Volunteer+🌿;A+Leader+🏆;An+Educator+👨‍🏫;A+STEM+fanboy+👨‍🔬;A+Manager+👨‍💼;A+Badminton+Lover+🏸;And+More!+✨)](https://git.io/typing-svg)
-
-<font size="+10"> ⚛ </font>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=A+Student+📖;A+Programmer+👨‍💻;A+Volunteer+🌿;A+Leader+🏆;An+Educator+👨‍🏫;A+STEM+fanboy+👨‍🔬;A+Manager+👨‍💼;A+Badminton+Lover+🏸;And+More!+✨)](https://git.io/typing-svg)
 
 ---
 
-###   ❓About me :
+###   🕵️‍♂️ About me :
 
 - 👨‍💼 Working as a Fundraising Manager at <a href="https://www.seedmalawi.com/">SEED Malawi</a>
 
