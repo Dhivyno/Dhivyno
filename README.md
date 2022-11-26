@@ -14,8 +14,12 @@
 <p>
   
 - 👨‍💼 Working as a Fundraising Manager at <a href="https://www.seedmalawi.com/">SEED Malawi</a>
+  
+<br>
 
 - 🔭 Working on a Face Detection framework
+  
+  <br>
 
 - 🌱 Learning Jupyter Notebook and Jupyter Lab
 
