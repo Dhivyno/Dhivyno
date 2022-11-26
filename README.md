@@ -7,15 +7,20 @@
 ### Hi! Nice to see you here, I'm Dhivyesh👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=A+Student+👨‍🎓;A+Programmer+👨‍💻;A+Volunteer+🌿;A+Leader+🏆;An+Educator+👨‍🏫;A+STEM+fanboy+👨‍🔬;A+Manager+👨‍💼;A+Badminton+Lover+🏸;And+More!+✨)](https://git.io/typing-svg)
 
+---
 
 ### About me :
 
 - 👨‍💼 Working as a Fundraising Manager at <a href="https://www.seedmalawi.com/">SEED Malawi</a>
+
 - 🔭 Working on a Face Detection framework
+
 - 🌱 Learning Jupyter Notebook and Jupyter Lab
+
 - 🤔 Exploring computer ethics and teaching young innovators in computer science
+
 - 📫 You can reach me on my <a href="https://mail.google.com/mail/u/1/?fs=1&to=dhivyno@gmail.com&tf=cm">email</a> (dhivyno@gmail.com)
-- ⚡ Fun fact: ...
+
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
