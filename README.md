@@ -69,9 +69,9 @@
 
 ### Technology
 
-<p align="right">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,unity,bootstrap,arduino,raspberrypi,blender" />
+    <img src="https://skillicons.dev/icons?i=vscode,unity,bootstrap,arduino,raspberrypi,blender" width="500", height="90"/>
   </a>
 </p>
 
