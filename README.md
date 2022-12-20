@@ -61,7 +61,7 @@
 
 </div>
 
-<p align="center">
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,unity,bootstrap,arduino,raspberrypi,go,swift,java,blender,rust,r,rails,react,ruby" />
   </a>
