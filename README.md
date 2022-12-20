@@ -45,13 +45,17 @@
 
 
 ### ⚒️ Tech and Languages I use:
+
+<br>
+### Languages
+
 <div>
   
+
   <p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C-Sharp" alt="C-Sharp" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
@@ -60,11 +64,14 @@
   </a>
 </p>
 
+
 </div>
+
+### Technology
 
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,unity,bootstrap,arduino,raspberrypi,go,swift,java,blender,rust,r,rails,react,ruby" />
+    <img src="https://skillicons.dev/icons?i=vscode,unity,bootstrap,arduino,raspberrypi,blender" />
   </a>
 </p>
 
