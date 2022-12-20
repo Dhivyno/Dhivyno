@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,vscode,html,css,js,unity,bootstrap,arduino" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,vscode,html,css,js,unity,bootstrap,arduino,raspberrypi,go,swift,java,blender,rust,r,rails,react,ruby" />
   </a>
 </p>
 
