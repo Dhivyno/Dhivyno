@@ -72,7 +72,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,unity,bootstrap,arduino,raspberrypi,blender" width="60", height="60"/>
+    <img src="https://skillicons.dev/icons?i=vscode,unity,bootstrap,arduino,raspberrypi,blender" height="60"/>
   </a>
 </p>
 
