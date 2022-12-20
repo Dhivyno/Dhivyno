@@ -47,7 +47,7 @@
 ### ⚒️ Tech and Languages I use:
 <div>
   
-  <p align="right">
+  <p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C-Sharp" alt="C-Sharp" width="50" height="50"/>
