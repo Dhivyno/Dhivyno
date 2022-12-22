@@ -61,7 +61,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,swift,java,rust,r,rails,react" height="50"/>
+    <img src="https://skillicons.dev/icons?i=go,swift,java,rust,r,rails,react,processing" height="50"/>
   </a>
 </p>
 
