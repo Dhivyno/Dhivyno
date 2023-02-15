@@ -6,6 +6,13 @@
 
 ## Face Detection
 
+<img width="300" alt="Face Detection" align="right" src="https://user-images.githubusercontent.com/63943490/219018653-4bd837fa-63d5-4e9e-b1b8-1d8ed050fa7e.jpg">
+
+This is the first program I created to explore machine learning and neural networks. It has the ability to detect faces underneath masks as well as I accounted for COVID regulations at the time.
+
+[Project Source Code >>>](https://github.com/Dhivyno/Face-Detection)
+
+
 
 
 ---
