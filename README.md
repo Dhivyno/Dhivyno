@@ -23,6 +23,9 @@ This is a machine learning program that uses hand detection to be able to contro
 <br>
 <br>
 
+## Physics Simulations
+
+This is a collection of my programs to simulate physical phenomena - Double pendulum chaos, Lorentz attractor, 
 
 ---
 
