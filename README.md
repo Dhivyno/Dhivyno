@@ -58,7 +58,7 @@ This is a collection of my programs to simulate physical phenomena - Double pend
   
 <br>
 
-- 🔭 Working on a Face Detection framework
+- 🔭 Working on a Contactless Checkout framework
   
 <br>
 
