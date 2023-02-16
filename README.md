@@ -25,7 +25,7 @@ This is a machine learning program that uses hand detection to be able to contro
 
 ## Physics Simulations
 
-<img width="600" height="200" alt="Helmholtz resonator simulation" align="right" src="https://user-images.githubusercontent.com/63943490/219329960-36fef4e7-c548-4900-8839-c0f3dff122e1.png">
+<img width="500" height="200" alt="Helmholtz resonator simulation" align="right" src="https://user-images.githubusercontent.com/63943490/219329960-36fef4e7-c548-4900-8839-c0f3dff122e1.png">
 
 This is a collection of my programs to simulate physical phenomena - Double pendulum chaos, Lorentz attractor, Bifurcation model etc. The helmholtz resonator simulation was made as an addition to my independent research project.
 
