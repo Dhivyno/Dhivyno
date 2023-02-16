@@ -22,6 +22,8 @@ This is the first program I created to explore machine learning and neural netwo
 This is a machine learning program that uses hand detection to be able to control the mouse cursor using only your fingers. I originally made this to provide accessibility to disabled people that might not be able to use a traditional mouse.
 <br>
 <br>
+[Demonstration >>>](https://github.com/Dhivyno/MouseHelper/blob/main/Mouse%20Helper%20Demonstration.mp4)
+<br>
 <br>
 [Project Source Code >>>](https://github.com/Dhivyno/MouseHelper)
 <br>
