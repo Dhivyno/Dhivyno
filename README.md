@@ -17,6 +17,9 @@ This is the first program I created to explore machine learning and neural netwo
 <br>
 ## Mouse Helper
 
+<img width="300" height="200" alt="Mouse Helper" align="right" src="https://user-images.githubusercontent.com/63943490/219345452-1b34fe38-cfa0-48e9-aae9-43af7089868b.png">
+
+
 This is a machine learning program that uses hand detection to be able to control the mouse cursor using only your fingers. I originally made this to provide accessibility to disabled people that might not be able to use a traditional mouse.
 <br>
 <br>
