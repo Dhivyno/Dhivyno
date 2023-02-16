@@ -22,7 +22,7 @@ This is the first program I created to explore machine learning and neural netwo
 This is a machine learning program that uses hand detection to be able to control the mouse cursor using only your fingers. I originally made this to provide accessibility to disabled people that might not be able to use a traditional mouse.
 <br>
 <br>
-[Demonstration >>>](https://github.com/Dhivyno/MouseHelper/blob/main/Mouse%20Helper%20Demonstration.mp4)
+[Video Demonstration >>>](https://github.com/Dhivyno/MouseHelper/blob/main/Mouse%20Helper%20Demonstration.mp4)
 <br>
 <br>
 [Project Source Code >>>](https://github.com/Dhivyno/MouseHelper)
@@ -35,6 +35,8 @@ This is a machine learning program that uses hand detection to be able to contro
 
 This is a collection of my programs to simulate physical phenomena - Double pendulum chaos, Lorentz attractor, Bifurcation model etc. The helmholtz resonator simulation was made as an addition to my independent research project.
 <br>
+<br>
+[Video Demonstration](https://github.com/Dhivyno/Physics-Simulations/blob/main/README.md)
 <br>
 <br>
 [Project Source Code >>>](https://github.com/Dhivyno/Physics-Simulations)
