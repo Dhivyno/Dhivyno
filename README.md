@@ -11,6 +11,8 @@
 This is the first program I created to explore machine learning and neural networks. It has the ability to detect faces underneath masks as well because I accounted for COVID regulations at the time.
 <br>
 <br>
+[Video Demonstration >>>](https://user-images.githubusercontent.com/63943490/210335482-24cf9a0e-74c5-4798-a29f-d6f800c3e1e3.mp4)
+<br>
 <br>
 [Project Source Code >>>](https://github.com/Dhivyno/Face-Detection)
 <br>
