@@ -11,12 +11,14 @@
 This is the first program I created to explore machine learning and neural networks. It has the ability to detect faces underneath masks as well because I accounted for COVID regulations at the time.
 <br>
 <br>
+<br>
 [Project Source Code >>>](https://github.com/Dhivyno/Face-Detection)
 <br>
 <br>
 ## Mouse Helper
 
 This is a machine learning program that uses hand detection to be able to control the mouse cursor using only your fingers. I originally made this to provide accessibility to disabled people that might not be able to use a traditional mouse.
+<br>
 <br>
 <br>
 [Project Source Code >>>](https://github.com/Dhivyno/MouseHelper)
@@ -28,6 +30,7 @@ This is a machine learning program that uses hand detection to be able to contro
 <img width="500" height="200" alt="Helmholtz resonator simulation" align="right" src="https://user-images.githubusercontent.com/63943490/219329960-36fef4e7-c548-4900-8839-c0f3dff122e1.png">
 
 This is a collection of my programs to simulate physical phenomena - Double pendulum chaos, Lorentz attractor, Bifurcation model etc. The helmholtz resonator simulation was made as an addition to my independent research project.
+<br>
 <br>
 <br>
 [Project Source Code >>>](https://github.com/Dhivyno/Physics-Simulations)
