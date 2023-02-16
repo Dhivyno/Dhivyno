@@ -25,7 +25,7 @@ This is a machine learning program that uses hand detection to be able to contro
 
 ## Physics Simulations
 
-This is a collection of my programs to simulate physical phenomena - Double pendulum chaos, Lorentz attractor, 
+This is a collection of my programs to simulate physical phenomena - Double pendulum chaos, Lorentz attractor, Bifurcation model etc. The helmholtz resonator simulation was made as an addition to my independent research project.
 
 ---
 
