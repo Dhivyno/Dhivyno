@@ -16,7 +16,6 @@ This is the first program I created to explore machine learning and neural netwo
 <br>
 [Project Source Code >>>](https://github.com/Dhivyno/Face-Detection)
 <br>
-<br>
 ## Mouse Helper
 
 <img width="300" height="200" alt="Mouse Helper" align="right" src="https://user-images.githubusercontent.com/63943490/219371796-a3884497-8a75-4fe2-9e2e-2ff93002c73d.png">
@@ -28,7 +27,6 @@ This is a machine learning program that uses hand detection to be able to contro
 <br>
 <br>
 [Project Source Code >>>](https://github.com/Dhivyno/MouseHelper)
-<br>
 <br>
 
 ## Physics Simulations
@@ -42,7 +40,6 @@ This is a collection of my programs to simulate physical phenomena - Double pend
 <br>
 <br>
 [Project Source Code >>>](https://github.com/Dhivyno/Physics-Simulations)
-<br>
 <br>
 
 ## Natural Language Processing AI 
