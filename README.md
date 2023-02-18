@@ -55,11 +55,9 @@ This is a project inspired by ChatGPT, the AI currently taking over the internet
 <br>
 <br>
 <br>
-<br>
-<br>
+
 [Project Source Code >>>](https://github.com/Dhivyno/Natural-Language-Processing-Bot)
-<br>
-<br>
+
 <br>
 <br>
 <br>
