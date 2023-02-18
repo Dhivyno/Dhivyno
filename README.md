@@ -50,10 +50,7 @@ This is a collection of my programs to simulate physical phenomena - Double pend
 This is a project inspired by ChatGPT, the AI currently taking over the internet achieving a million users in just 5 days. The AI uses multiple APIs to be able to process Natural Language in the form of questions, tokenize them and generate an answer. This is my third machine learning project.
 <br>
 <br>
-[Video Demonstrations >>>](https://github.com/Dhivyno/Physics-Simulations/bTlob/main/README.md)
-<br>
-<br>
-[Project Source Code >>>](https://github.com/Dhivyno/Physics-Simulations)
+[Project Source Code >>>](https://github.com/Dhivyno/Natural-Language-Processing-Bot)
 <br>
 <br>
 
