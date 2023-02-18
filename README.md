@@ -123,7 +123,7 @@ This is a collection of my programs to simulate physical phenomena - Double pend
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhivyno&custom_title=My+GitHub+Stats&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivyno&theme=dark&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivyno&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
