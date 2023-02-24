@@ -32,6 +32,10 @@ This is a machine learning program that uses hand detection to be able to contro
 <br>
 <br>
 
+## Contactless Checkout 2
+
+This is another machine learning program that uses the **SSD MobileNet V2 FPNLite 320x320** framework in the [tensorflow model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md). Using object detection and GPU training, I have created a program that detects and displays the prizes of as many items as programmed. The demo shows the use of 5 different items but this can easily be scaled up with just 5 images for each item. 
+
 ## Physics Simulations
 
 <img width="400" height="200" alt="Helmholtz resonator simulation" align="right" src="https://user-images.githubusercontent.com/63943490/219329960-36fef4e7-c548-4900-8839-c0f3dff122e1.png">
