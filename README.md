@@ -175,3 +175,5 @@ This is a project inspired by ChatGPT, the AI currently taking over the internet
 
 
 ![](https://komarev.com/ghpvc/?username=Dhivyno&color=blue&type=horizontal)
+
+</p>
