@@ -3,7 +3,7 @@
 
 ---
 # My Coding Projects 🚀
-
+npm install --save github-embed babel-polyfill
 ## Face Detection
 
 <img width="300" height="200" alt="Face Detection" align="right" src="https://user-images.githubusercontent.com/63943490/219018653-4bd837fa-63d5-4e9e-b1b8-1d8ed050fa7e.jpg">
