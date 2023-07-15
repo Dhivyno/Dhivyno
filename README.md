@@ -3,12 +3,10 @@
 
 ---
 # My Coding Projects 🚀
-```markdown
 <script src="https://cdn.botpress.cloud/webchat/v0/inject.js"></script>
 <script src="https://mediafiles.botpress.cloud/e5233279-fa64-482d-a1f5-102e32c83a15/webchat/config.js" defer></script>
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css"/>
 <style>body { color: red }</style>
-```
 ## Face Detection
 
 <img width="300" height="200" alt="Face Detection" align="right" src="https://user-images.githubusercontent.com/63943490/219018653-4bd837fa-63d5-4e9e-b1b8-1d8ed050fa7e.jpg">
