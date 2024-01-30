@@ -74,40 +74,6 @@ This is a project inspired by ChatGPT, the AI currently taking over the internet
 
 ---
 
-##   🕵️‍♂️ About me :
-
-<br>
-
-<p>
-  
-- 👨‍💼 Working as a Fundraising Manager at <a href="https://www.seedmalawi.com/">SEED Malawi</a>
-  
-<br>
-
-- 🔭 Working on a Contactless Checkout framework
-  
-<br>
-
-- 🌱 Learning Jupyter Notebook and Jupyter Lab
-  
-<br>
-
-- 🤔 Exploring computer ethics and teaching young innovators in computer science
-  
-<br>
-
-- 📫 You can reach me on my <a href="https://mail.google.com/mail/u/1/?fs=1&to=dhivyno@gmail.com&tf=cm">email</a> (dhivyno@gmail.com)
-  
-</p> 
-
-<br>
-<br>
-
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
-
----
-
 
 ## ⚒️ Tech and Languages I use:
 
