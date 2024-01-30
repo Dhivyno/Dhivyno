@@ -109,11 +109,7 @@ This is a project inspired by ChatGPT, the AI currently taking over the internet
 
 ---
 
-### ✨ My Stats : 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dhivyno&theme=highcontrast)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhivyno&custom_title=My+GitHub+Stats&show_icons=true&theme=transparent)
+### ✨ My Top Languages : 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivyno&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
