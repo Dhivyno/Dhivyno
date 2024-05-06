@@ -6,7 +6,7 @@
 
 ## Face Detection
 
-[Demonstration.webm](https://github.com/Dhivyno/Dhivyno/assets/63943490/82d14da3-e70f-4d59-ab9c-586962b55bd4t)
+[Demonstration.webm](https://github.com/Dhivyno/Dhivyno/assets/63943490/2985a2e4-bcc6-4d2c-9326-6dc6c8fd891e)
 
 This is the first program I created to explore machine learning and neural networks. It has the ability to detect faces underneath masks as well because I accounted for COVID regulations at the time.
 <br>
