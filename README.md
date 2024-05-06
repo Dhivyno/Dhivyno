@@ -34,6 +34,8 @@ This is a machine learning program that uses hand detection to be able to contro
 
 ## Contactless Checkout 2
 
+[Contactless Checkout Automation demo.webm](https://github.com/Dhivyno/Dhivyno/assets/63943490/acff7888-e392-407a-aade-18ed27eb2285)
+
 This is another machine learning program that uses the ***SSD MobileNet V2 FPNLite 320x320*** framework in the [tensorflow model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md). Using object detection and GPU training, I have created a program that detects and displays the prizes of as many items as programmed. The demo shows the use of 5 different items but this can easily be scaled up with just 5 images for each item. 
 <br>
 <br>
