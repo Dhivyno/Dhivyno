@@ -8,6 +8,8 @@
 
 [Demonstration.webm](https://github.com/Dhivyno/Dhivyno/assets/63943490/82d14da3-e70f-4d59-ab9c-586962b55bd4)
 
+<img src="https://github.com/Dhivyno/Dhivyno/assets/63943490/82d14da3-e70f-4d59-ab9c-586962b55bd4" width="300" height="200">
+
 
 This is the first program I created to explore machine learning and neural networks. It has the ability to detect faces underneath masks as well because I accounted for COVID regulations at the time.
 <br>
