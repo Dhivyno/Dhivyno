@@ -6,8 +6,6 @@
 
 ## Face Detection
 
-<img width="300" height="200" alt="Face Detection" align="right" src="https://user-images.githubusercontent.com/63943490/219018653-4bd837fa-63d5-4e9e-b1b8-1d8ed050fa7e.jpg">
-
 [Demonstration.webm](https://github.com/Dhivyno/Dhivyno/assets/63943490/82d14da3-e70f-4d59-ab9c-586962b55bd4)
 
 
