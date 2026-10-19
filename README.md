@@ -72,34 +72,4 @@ This is a project inspired by ChatGPT, the AI currently taking over the internet
 </p>
 
 ---
-
-### ✨ My Top Languages : 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivyno&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Find me on :
-
-<p align="left">
-<a href="https://www.instagram.com/dhivyno/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" img align="center" title="Instagram" alt="Instagram"/>
-  </a>
-</p>
-  
-<p>
-<a href="https://www.linkedin.com/in/dhivyesh-k-b46a68202/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" img align="center" alt="LinkedIn" title="LinkedIn" />
-</a>
-</p>
-<p>
-<a href="https://www.youtube.com/channel/UCOKgIzmiN3huHSXfZWQyuMw">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" img align="center" title="Youtube" alt="Youtube"/>
-</a>
-</p>
-
-
-
-![](https://komarev.com/ghpvc/?username=Dhivyno&color=blue&type=horizontal)
-
 </p>
