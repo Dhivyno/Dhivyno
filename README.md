@@ -6,43 +6,20 @@
 
 ## Face Detection
 
-[Demonstration.webm](https://github.com/Dhivyno/Dhivyno/assets/63943490/2985a2e4-bcc6-4d2c-9326-6dc6c8fd891e)
-
 This is the first program I created to explore machine learning and neural networks. It has the ability to detect faces underneath masks as well because I accounted for COVID regulations at the time.
 <br>
-<br>
-[Video Demonstration >>>](https://user-images.githubusercontent.com/63943490/210335482-24cf9a0e-74c5-4798-a29f-d6f800c3e1e3.mp4)
-<br>
-<br>
-[Project Source Code >>>](https://github.com/Dhivyno/Face-Detection)
-<br>
-<br>
+
 
 ## Mouse Helper
 
-[Mouse Helper Demonstration.webm](https://github.com/Dhivyno/Dhivyno/assets/63943490/949b2000-6cea-4be6-8c61-6406803cc1ce)
 
 This is a machine learning program that uses hand detection to be able to control the mouse cursor using only your fingers. I originally made this to provide accessibility to disabled people that might not be able to use a traditional mouse.
-<br>
-<br>
-[Video Demonstration >>>](https://github.com/Dhivyno/MouseHelper/blob/main/Mouse%20Helper%20Demonstration.mp4)
-<br>
-<br>
-[Project Source Code >>>](https://github.com/Dhivyno/MouseHelper)
-<br>
 <br>
 
 ## Contactless Checkout 2
 
-[Contactless Checkout Automation demo.webm](https://github.com/Dhivyno/Dhivyno/assets/63943490/acff7888-e392-407a-aade-18ed27eb2285)
-
 This is another machine learning program that uses the ***SSD MobileNet V2 FPNLite 320x320*** framework in the [tensorflow model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md). Using object detection and GPU training, I have created a program that detects and displays the prizes of as many items as programmed. The demo shows the use of 5 different items but this can easily be scaled up with just 5 images for each item. 
 <br>
-<br>
-[Video demonstration >>>](https://github.com/Dhivyno/Dhivyno/assets/63943490/acff7888-e392-407a-aade-18ed27eb2285)
-<br>
-<br>
-[Project Source Code >>>](https://github.com/Dhivyno/Contactless-Checkout-2)
 
 ## Physics Simulations
 
@@ -50,13 +27,7 @@ This is another machine learning program that uses the ***SSD MobileNet V2 FPNLi
 
 This is a collection of my programs to simulate physical phenomena - Double pendulum chaos, Lorentz attractor, Bifurcation model etc. The helmholtz resonator simulation was made as an addition to my independent research project.
 <br>
-<br>
-[Video Demonstrations >>>](https://github.com/Dhivyno/Physics-Simulations/bTlob/main/README.md)
-<br>
-<br>
-[Project Source Code >>>](https://github.com/Dhivyno/Physics-Simulations)
-<br>
-<br>
+
 
 ## Natural Language Processing AI 
 
@@ -65,15 +36,6 @@ This is a collection of my programs to simulate physical phenomena - Double pend
 
 This is a project inspired by ChatGPT, the AI currently taking over the internet achieving a million users in just 5 days. I wanted to learn how to use APIs for my third machine learning project so this AI uses multiple APIs to be able to process Natural Language in the form of questions, tokenize them and generate an answer.
 <br>
-<br>
-<br>
-<br>
-[Project Source Code >>>](https://github.com/Dhivyno/Natural-Language-Processing-Bot)
-<br>
-<br>
-<br>
-<br>
-
 ---
 
 
